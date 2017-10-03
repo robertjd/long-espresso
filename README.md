@@ -1,0 +1,1 @@
+Exploring some ideas for for testing a relying party as the SUT, where the SUT depends on a mock Open ID provider
