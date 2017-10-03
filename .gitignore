@@ -1,0 +1,11 @@
+coverage
+docs/_build
+node_modules
+.nyc_output
+.coveralls.yml
+*.log
+.env
+.vscode
+jsdocs/
+jsdoc/
+
